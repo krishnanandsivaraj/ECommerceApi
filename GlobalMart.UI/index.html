@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>GlobalMart Sample UI</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+    <meta http-equiv="Access-Control-Allow-Origin" content="*">
+    <script src="app.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+                $.ajax({
+                    type: "GET",
+                    url: 'http://localhost/GlobalMart.Services/ProductCatalog/GetAllProducts',
+                }).done(function (data) {
+                    for (var i = 0; i < data.length; i++) {
+                        $('#myTable tr:last').after("<tr><td>" + data[i].Catagories + "</td><td>" + data[i].brandName + "</td><td>" + data[i].id + "</td><td>" + data[i].productName + "</td><td>" + data[i].subCatagories + "</td></tr>");
+                    }
+                }).error(function (jqXHR, textStatus, errorThrown) {
+                    alert(jqXHR.responseText || textStatus);
+                });
+           
+            //post method call
+            //$.ajax({
+            //    url: 'http://localhost/GlobalMart.Services/ProductCatalog/GetAllProducts',
+            //    data: JSON.stringify(json),
+            //    type: "POST",
+            //    beforeSend: function (xhr) {
+            //        xhr.setRequestHeader("Accept", "application/json");
+            //        xhr.setRequestHeader("Content-Type", "application/json");
+            //    },
+            //    success: function (data) {
+            //        alert(data);
+            //    },
+            //    error: function (request, status, error) {
+            //        //alert(request.responseText);
+            //        //alert(status);
+            //        //alert(error);
+            //    }
+            //});
+        });
+    </script>
+</head>
+<body>
+    <h1>Global Mart Sample UI</h1>
+
+    <p id="content"></p>
+    <table  id="myTable"><tr><th>Catagories</th><th>brandName</th><th>id</th><th>productName</th><th>subCatagories</th></tr></table>
+</body>
+</html>

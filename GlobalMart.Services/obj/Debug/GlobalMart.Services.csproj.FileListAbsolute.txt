@@ -1,0 +1,105 @@
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\roslyn\csc.exe
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\roslyn\vbc.exe
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\roslyn\VBCSCompiler.exe
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\GlobalMart.Services.dll.config
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\GlobalMart.Services.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\GlobalMart.Services.pdb
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\EntityFramework.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\EntityFramework.SqlServer.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\Newtonsoft.Json.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\EntityFramework.xml
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\EntityFramework.SqlServer.xml
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\Newtonsoft.Json.xml
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.xml
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\obj\Debug\GlobalMart.Services.csprojResolveAssemblyReference.cache
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\obj\Debug\GlobalMart.Services.dll
+C:\Users\dotne\onedrive\documents\visual studio 2015\Projects\GlobalMart\GlobalMart.Services\GlobalMart.Services\obj\Debug\GlobalMart.Services.pdb
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\roslyn\csc.exe
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\roslyn\vbc.exe
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\GlobalMart.Services.dll.config
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\GlobalMart.Services.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\GlobalMart.Services.pdb
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\EntityFramework.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\EntityFramework.xml
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.xml
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\obj\Debug\GlobalMart.Services.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\obj\Debug\GlobalMart.Services.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\obj\Debug\GlobalMart.Services.pdb
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Cors.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.Cors.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.Cors.xml
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\roslyn\csc.exe
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\roslyn\System.Collections.Immutable.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\roslyn\System.Reflection.Metadata.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\roslyn\vbc.exe
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\roslyn\VBCSCompiler.exe
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\roslyn\VBCSCompiler.exe.config
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\GlobalMart.Services.dll.config
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\GlobalMart.Services.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\GlobalMart.Services.pdb
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\EntityFramework.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\EntityFramework.SqlServer.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\Newtonsoft.Json.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\System.Net.Http.Formatting.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Cors.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.Cors.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.WebHost.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\EntityFramework.xml
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\EntityFramework.SqlServer.xml
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.Cors.xml
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\Newtonsoft.Json.xml
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\System.Net.Http.Formatting.xml
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.xml
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\bin\System.Web.Http.WebHost.xml
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\obj\Debug\GlobalMart.Services.csprojResolveAssemblyReference.cache
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\obj\Debug\GlobalMart.Services.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\obj\Debug\GlobalMart.Services.pdb
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\obj\Debug\GlobalMart.Services.Migrations.one.resources
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\obj\Debug\GlobalMart.Services.csproj.GenerateResource.Cache
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.Services\obj\Debug\GlobalMart.Services.Migrations.two.resources

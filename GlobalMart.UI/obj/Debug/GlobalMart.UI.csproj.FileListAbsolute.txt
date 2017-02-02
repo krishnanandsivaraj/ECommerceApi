@@ -1,0 +1,12 @@
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.UI\bin\GlobalMart.UI.dll.config
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.UI\bin\GlobalMart.UI.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.UI\bin\GlobalMart.UI.pdb
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.UI\obj\Debug\GlobalMart.UI.dll
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.UI\obj\Debug\GlobalMart.UI.pdb
+C:\Users\Administrator\Downloads\GlobalMart.Services1\GlobalMart.Services\GlobalMart.UI\obj\Debug\GlobalMart.UI.csprojResolveAssemblyReference.cache
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.UI\bin\GlobalMart.UI.dll.config
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.UI\bin\GlobalMart.UI.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.UI\bin\GlobalMart.UI.pdb
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.UI\obj\Debug\GlobalMart.UI.csprojResolveAssemblyReference.cache
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.UI\obj\Debug\GlobalMart.UI.dll
+D:\GlobalMart.Services12\GlobalMart.Services\GlobalMart.UI\obj\Debug\GlobalMart.UI.pdb
