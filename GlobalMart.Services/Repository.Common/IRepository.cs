@@ -4,7 +4,7 @@ namespace GlobalMart.Services.ProductCatalogRepository
 {
     public interface IRepository<T> where T:class
     {
-        bool AddProduct(T product);
+        bool AddExternalService(T product);
 
         bool Post(T product);
         List<T> GetById(string id);

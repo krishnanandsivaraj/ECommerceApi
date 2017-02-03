@@ -9,7 +9,7 @@ namespace GlobalMart.Services.Tests.ProductCatalogRepository
 {
     public class TestRepository : IRepository<Product>
     {
-        public bool AddProduct(Product product)
+        public bool AddExternalService(Product product)
         {
             return true;
         }
@@ -39,7 +39,7 @@ namespace GlobalMart.Services.Tests.ProductCatalogRepository
 
         public bool Post(Product product)
         {
-            throw new NotImplementedException();
+            return true;
         }
     }
 }

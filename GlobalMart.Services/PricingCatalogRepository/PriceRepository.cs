@@ -20,7 +20,7 @@ namespace GlobalMart.Services.PricingCatalogRepository
         }
 
 
-        public virtual bool AddProduct(PriceCatalog product)
+        public virtual bool AddExternalService(PriceCatalog product)
         {
             throw new NotImplementedException();
         }

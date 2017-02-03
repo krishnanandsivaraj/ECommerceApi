@@ -46,7 +46,7 @@ namespace GlobalMart.Services.Tests
         }
 
         [Test]
-        public void ProductCatalog_Should_Return_True_For_External_Insert()
+        public void ProductCatalog_Should_Return_False_For_External_Insert()
         {
             Product prod = new Product { id = 3, Catagories = "Vehicle", productId = "cars01s", brandName = "Maruti", productName = "Suzuki", subCatagories = "Cars" };
 
@@ -56,7 +56,7 @@ namespace GlobalMart.Services.Tests
 
             IAddExternalService products = moqobj;
             IRepository<Product> product = new Repository(moqobj);
-            bool actualResult = product.AddProduct(prod);
+            bool actualResult = product.AddExternalService(prod);
 
             Assert.AreEqual(false, actualResult);
             

@@ -17,7 +17,7 @@ namespace GlobalMart.Services.ProductCatalogRepository
         }
 
 
-        public virtual bool AddProduct(Product product)
+        public virtual bool AddExternalService(Product product)
         {
             return this.addService.AddExternalService(product);
         }
