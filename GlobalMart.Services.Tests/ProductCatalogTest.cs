@@ -46,6 +46,22 @@ namespace GlobalMart.Services.Tests
         }
 
         [Test]
+        public void GetProductCatalog_Should_Return_ProperValue_OnUpdate()
+        {
+            Product prod = new Product { id = 3, Catagories = "Vehicle", productId = "cars01s", brandName = "Maruti", productName = "Suzuki", subCatagories = "Cars" };
+            string result = controller.Put(prod);
+            Assert.AreEqual("success", result);
+        }
+
+        [Test]
+        public void GetProductCatalog_Should_Return_ProperValue_OnDelete()
+        {
+            Product prod = new Product { id = 3, Catagories = "Vehicle", productId = "cars01s", brandName = "Maruti", productName = "Suzuki", subCatagories = "Cars" };
+            string result = controller.Delete(prod.productId);
+            Assert.AreEqual("success", result);
+        }
+
+        [Test]
         public void ProductCatalog_Should_Return_False_For_External_Insert()
         {
             Product prod = new Product { id = 3, Catagories = "Vehicle", productId = "cars01s", brandName = "Maruti", productName = "Suzuki", subCatagories = "Cars" };
